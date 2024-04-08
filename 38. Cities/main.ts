@@ -8,5 +8,5 @@ function describe_city(city: string, country: string){
     }
     describe_city("Karachi", "Pakistan" );
     describe_city("Bankok", "Thiland" );
-    describe_city("Sukkur", "Pkistan");
+    describe_city("Sukkur", "Pakistan");
     
